@@ -1,0 +1,12 @@
+[submodule "Windows-Activation"]
+	path = Windows-Activation
+	url = https://github.com/gokulappavu/Windows-Activation.git
+[submodule "WindowsTempCleaner"]
+	path = WindowsTempCleaner
+	url = https://github.com/gokulappavu/WindowsTempCleaner.git
+[submodule "Empty-Recycle-Bin-Batch-Script"]
+	path = Empty-Recycle-Bin-Batch-Script
+	url = https://github.com/gokulappavu/Empty-Recycle-Bin-Batch-Script.git
+[submodule "daily-url-opener"]
+	path = daily-url-opener
+	url = https://github.com/gokulappavu/daily-url-opener.git
